@@ -1,0 +1,3342 @@
+[
+  {
+    "id": "c21d07e7-fe0f-4226-a974-da447217d949",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "d94eed3a-2e26-4d50-bfad-80df37b9632c",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "853ade7c-3587-4a24-aac7-ff9e88f6c96c",
+        "employeeId": "fifth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-07"
+      },
+      {
+        "actionId": "02a2c9c6-a4db-4a9f-b5b0-028e3519fff5",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "c77c7641-f383-4c98-8bef-b9c5c8b42926",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "a228a035-3ff1-4f37-80bf-f2adaa76d938",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "88816ffa-b1ce-4dab-8710-7cd33187911c",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "b654680f-b3a0-44aa-8e80-6683bdf8f68d",
+        "description": "Кредитная карта"
+      }
+    ]
+  },
+  {
+    "id": "f7020df5-b081-4986-aef3-54dde66f8da1",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "5d4a9559-54a2-4cae-a819-9baae6fc47f7",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "d7fbff1a-caf7-41ed-8ae0-fcb794cf2abc",
+        "employeeId": "third",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-02"
+      }
+    ],
+    "products": [
+      {
+        "productId": "4239443e-009d-4ca9-ac0e-6e0057653392",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "d76062ed-83c5-4b4a-bb18-96409bb84170",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "a75ed09a-c658-439f-9300-9854b3791851",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "9dc4ec31-4770-439e-8f04-167aa75ccd98",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "34daf05b-9de6-4150-8064-84ab45239690",
+        "employeeId": "first",
+        "actionType": "READ",
+        "executionTime": "2021-03-02"
+      },
+      {
+        "actionId": "0dd74d56-087b-406b-9732-54ccc931cc93",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "a4cb13cc-b10b-4c54-8d06-a7eb3ab9334a",
+        "employeeId": "second",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-02"
+      }
+    ],
+    "products": [
+      {
+        "productId": "5a554bda-3701-4c91-a9bb-99417a9ca98f",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "584ce23e-7e90-4b7a-86cd-756b9f707c4a",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "274887cc-d52f-4194-9c98-f197cb12cd7b",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "7847e09d-faff-4889-996d-0ce10a39f508",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "4ddd9e5c-1f88-405f-9580-a38e5688dc2f",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "b1c72050-952a-49a8-8ae1-7ead201bff10",
+        "employeeId": "fifth",
+        "actionType": "DELETE",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "d098d999-e229-4b2d-9c87-2804f3737a0f",
+        "employeeId": "first",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "4619d192-07fa-41b5-801f-925f9ec66852",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-26"
+      }
+    ],
+    "products": [
+      {
+        "productId": "7618a2f7-3252-4143-b3fa-1c401437c2fd",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "b4ff1b9f-8ed4-4e89-a188-df4c46600d65",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "1009f58d-e3d4-4ca9-bc5a-ed2aa254021f",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "543e7ec9-fd32-4534-887b-70750313e126",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "8cf35326-91b7-4ba6-9baf-22e0e810bf50",
+        "employeeId": "first",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-09"
+      }
+    ],
+    "products": [
+      {
+        "productId": "8bc08026-5f33-456a-b0ef-e461ff9576e9",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "54233eef-1052-4b02-8954-ad9c0a2755cf",
+        "description": "Банковская карта"
+      }
+    ]
+  },
+  {
+    "id": "dd381438-775c-4e90-9398-6e5944f9af40",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "500830b1-4ebc-46fd-ac06-1c492cd64c1c",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-27"
+      },
+      {
+        "actionId": "fe8b8666-9e54-467f-ac48-0915b384ae3f",
+        "employeeId": "first",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "54a25527-d34e-4645-864e-094112aca589",
+        "employeeId": "fifth",
+        "actionType": "DELETE",
+        "executionTime": "2021-02-27"
+      }
+    ],
+    "products": [
+      {
+        "productId": "b7a0fafd-f4ef-4e1a-9592-dae3037f71db",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "bc54989b-b9fc-40de-8c8c-ac8a5322dfa2",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "b9bc889a-586b-4f08-9c4a-97227451de77",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "8476d64a-598b-4caa-ac27-25af2a7e9fa9",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "478cfb31-e597-4efb-adf1-1bf4cc3e3d55",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      }
+    ],
+    "products": [
+      {
+        "productId": "c95dc0d0-e918-4c00-948e-3379bfc80447",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "351d7fda-6d5c-4ef6-b26a-68e999fa9895",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "39bd5136-fc9e-4ee1-bcfb-fb2bd76ef5e4",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "8bc56493-0c7d-4471-9c04-cc8728d9fe92",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "bdd9da54-a5be-4c71-a1e9-d4279c41fb3a",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-26"
+      },
+      {
+        "actionId": "b1e6d3a9-83dc-4da9-8323-39b6ff8da7e7",
+        "employeeId": "fourth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-23"
+      }
+    ],
+    "products": [
+      {
+        "productId": "7f0377f9-14c7-48aa-ab12-e9aded191368",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "7ced9323-5757-49a7-b166-12df3e92155e",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "6d1d2939-1fe0-4e28-b76a-7d8214ea7609",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "e8d3385b-d84e-4384-a900-2f520670eddb",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "85ca0c6d-5061-40cf-9dd9-d7344dea4c9d",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-28"
+      }
+    ],
+    "products": [
+      {
+        "productId": "3ccb5b12-c0da-4ffe-aff7-dfa79ac2fb51",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "8b694ea5-0048-4b6c-8c2e-4d1beb8f29d4",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "a9862d49-89c7-4aee-b224-6b32b57eecc8",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "181675d8-42ce-42e7-b86d-9943d28f2b21",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-26"
+      }
+    ],
+    "products": [
+      {
+        "productId": "36039d5e-200d-4e2c-b5a9-b1f2727314f4",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "92910076-be5e-4ed6-b162-29f7a4b871a8",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "d6c181d2-1b12-4880-b1e4-d3e812de2f60",
+        "description": "Депозит"
+      },
+      {
+        "productId": "6b92d25f-46f2-4683-ae43-ece8d00f115e",
+        "description": "Банковская карта"
+      }
+    ]
+  },
+  {
+    "id": "bf60e371-b335-4c83-9a8f-56a42a48d86d",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "073f61ee-e0cd-4309-9dc5-4d472251f20d",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-02"
+      }
+    ],
+    "products": [
+      {
+        "productId": "c811c1d9-8d1a-4105-a63d-e313223edbb8",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "64bde46f-3405-4194-ad6e-161b05dddc66",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "57bb7319-2d20-444e-97fe-863a86712b6c",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "8797d2c5-e9c1-485f-b233-afdb547ca0d5",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "f71eb43f-3889-4d52-813b-71655144e5d8",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-07"
+      },
+      {
+        "actionId": "d3c781b5-a9d1-4cc5-ab42-eeb98e094abc",
+        "employeeId": "third",
+        "actionType": "DELETE",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "25c31e66-bd74-4b77-9bbb-b4159f2145d4",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-07"
+      }
+    ],
+    "products": [
+      {
+        "productId": "c4ae5e62-1944-4886-a6db-985fce80268d",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "ec26a6c6-c588-4d7d-984a-7a73815f4a34",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "1b3b7435-2f0b-41a3-88b3-8af91217ed93",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      }
+    ],
+    "products": [
+      {
+        "productId": "a48913a9-a835-4495-83cd-6113eb726522",
+        "description": "Кредитная карта"
+      }
+    ]
+  },
+  {
+    "id": "a3463927-b0d9-4cbe-8205-9b809075ceae",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "c190e305-59aa-4e98-b734-7aa2d2ec25bd",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "22693ff1-d5e9-43eb-bce0-5a2f1729e241",
+        "employeeId": "first",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-01"
+      }
+    ],
+    "products": [
+      {
+        "productId": "3eacaeae-3abb-4191-a159-9546c2df6a42",
+        "description": "Депозит"
+      },
+      {
+        "productId": "d71ff293-6849-4ba5-baa9-74ec3ec5f8b6",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "847b516b-198e-428e-a5d0-1b2be3b7d021",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "64d5819d-4ba4-4c27-8270-a6449565d236",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "688730cf-52b6-48f8-b217-f48dc50c0f63",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "57af6faf-6bb5-4401-a83d-d75a18be2d1e",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-02-26"
+      },
+      {
+        "actionId": "e7b5d443-57e1-4352-8b7e-dc95d1895f18",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-25"
+      }
+    ],
+    "products": [
+      {
+        "productId": "34cf4f7d-0f3e-4957-a3d6-173fad35ddf5",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "9f643c03-14a5-4cb0-bf1b-24e54ae52c6a",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "a17733a7-2373-44e0-8b8e-406f6d94429d",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "506f083e-77e3-44cc-863b-4119c4953817",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-26"
+      },
+      {
+        "actionId": "764dcd6e-92f0-4409-9ba8-b54437a15152",
+        "employeeId": "second",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-07"
+      },
+      {
+        "actionId": "071cfb3c-7d0d-4b46-80a4-50fb785b994c",
+        "employeeId": "second",
+        "actionType": "READ",
+        "executionTime": "2021-03-07"
+      }
+    ],
+    "products": [
+      {
+        "productId": "78df0fb1-aa37-47b6-a6bf-987a15a67932",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "0e0ef11d-89c6-4230-8813-e650e1a5f3b0",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "c40f223b-6cc1-41bc-a9d6-6661d705b74d",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "8bece055-0b46-4ad6-b07d-ac79cd96fce5",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "3a8e6630-3fc3-4eed-a41f-fb1445864469",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "79e49468-e3fe-4e8d-86fe-ddf51739c835",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-07"
+      },
+      {
+        "actionId": "95617c8d-8f58-40ee-a11e-5bb40dda15f7",
+        "employeeId": "first",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-04"
+      }
+    ],
+    "products": [
+      {
+        "productId": "a9dd830c-b7ca-4691-b440-2265516e389e",
+        "description": "Банковская карта"
+      }
+    ]
+  },
+  {
+    "id": "fe6d9432-c1be-4916-9bce-1ed4d18072ff",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "68eceb0d-d966-46cf-8cea-e63ba5c184f6",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-26"
+      },
+      {
+        "actionId": "4e8b9250-b2ac-4d91-8ba9-f2dc336437e1",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-03"
+      }
+    ],
+    "products": [
+      {
+        "productId": "a60acc62-8104-46b0-b0dc-31a2ee1a533c",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "296daf5e-d7ab-455c-93fc-e813df13e62f",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "af9dfddb-eb1d-4f6b-a6e7-aabf8565d43e",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "de796c1f-3ba6-4637-b398-f946f02dd23f",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "566ef2a1-414c-4979-8afb-4ae7d7e2c397",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "c0ea6c08-99f7-4277-ad88-5e2e6c7d1f48",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-03"
+      },
+      {
+        "actionId": "5a053c85-89af-4a8f-861c-367613fae02b",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "62606979-5bb1-4adf-86d1-45a45a67d196",
+        "employeeId": "third",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-01"
+      }
+    ],
+    "products": [
+      {
+        "productId": "b25fe592-7ffa-415b-ad24-d914d7afe794",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "a7382aa0-1bc0-41c7-80ff-e55ec121385c",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "a9744b39-3c55-467e-a92f-1b8d120ae818",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "b632402c-3d29-4286-9edf-3ef45e56915e",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "a46a8b3f-f741-471a-932e-1dd11f96f607",
+        "employeeId": "fifth",
+        "actionType": "READ",
+        "executionTime": "2021-03-09"
+      }
+    ],
+    "products": [
+      {
+        "productId": "ee65a65f-bf4a-4c76-9999-953f2496ae04",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "731003be-b0d3-4bce-9424-953a12f8d04a",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "6c371dc6-6244-4c64-a283-a786ec20444b",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "65a3dc35-f01f-48d1-afeb-89069242209f",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "4c213e8d-8de5-4f0e-810d-11796b89ce09",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "89984648-2fc2-4494-a58b-e0d5547ea7e7",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "dc17b21b-1880-4484-bfbf-80896fbdbf1f",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "9f4f0f2a-3dc3-40a6-a762-a5431d368528",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "b40f20bd-c670-4323-beca-c1d8722aa507",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "040dffe5-f1e8-4657-8e63-7c220ae48ace",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      }
+    ],
+    "products": [
+      {
+        "productId": "10b46825-87eb-4443-808e-60e574ea373e",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "2ed4131f-5e7d-4b00-ba44-854af5eb8aeb",
+        "description": "Депозит"
+      },
+      {
+        "productId": "608f0636-96a8-417f-b86a-957450fdaac0",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "36fb5e12-5e54-4f3d-81d8-0d896d41b265",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "5b1aa2b6-cf70-404c-9d26-3b8191cff9dc",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-02"
+      }
+    ],
+    "products": [
+      {
+        "productId": "997d25b2-7b5c-441d-8aaf-da8a7e07dcb3",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "1af9c9f5-ae1f-4e20-b909-b59521101a80",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "3cc699a1-d7b6-4681-a877-b19f8bcefeef",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "24057742-d7b4-4b7c-b045-6f0962998627",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "05e43b1c-cdc6-462a-bdd5-c15c07858247",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-26"
+      },
+      {
+        "actionId": "8ef9404c-6de1-4b27-b93d-e91eb5ed67ec",
+        "employeeId": "third",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-06"
+      },
+      {
+        "actionId": "7198c620-547d-4aa7-8ad9-ba752e86f7b1",
+        "employeeId": "third",
+        "actionType": "READ",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "b0a7954d-1037-48f6-bc69-fb6bdd5a5c18",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "82755a9c-da8d-479e-a9cc-cad389816019",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "3955659e-321d-4771-8ca3-5efd0b93cdbf",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "bedbbd30-9af8-4538-be40-a545cda7979d",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "b436b8bf-bed4-44f7-ac42-fb21adb9cc2d",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-07"
+      }
+    ],
+    "products": [
+      {
+        "productId": "bf3c95ed-8ef6-4056-9372-c23e24113fb1",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "a2046589-7692-4347-af8d-9c267fb0a3ce",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "762fac18-b1d6-4da7-960a-88cff35f3d65",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "9c513ef5-d249-4512-82c6-9bcaaccbe1e3",
+        "description": "Кредитная карта"
+      }
+    ]
+  },
+  {
+    "id": "f9f402c4-91c5-41f7-accb-a1ceb29939bb",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "145e8f2a-d5d2-4c26-8a0f-c0656e6607dc",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-27"
+      },
+      {
+        "actionId": "34667390-5420-400b-8ccf-4b5fe692a1ea",
+        "employeeId": "third",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "f7979e8f-6c1e-4abd-b7b4-8bdd63b16131",
+        "employeeId": "second",
+        "actionType": "DELETE",
+        "executionTime": "2021-02-27"
+      },
+      {
+        "actionId": "a942cd8c-9bb5-4aea-a52d-8208c6cf3b8d",
+        "employeeId": "fourth",
+        "actionType": "DELETE",
+        "executionTime": "2021-02-23"
+      }
+    ],
+    "products": [
+      {
+        "productId": "809ef434-92fb-4548-b9da-8d1f3bd87079",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "1189891f-0c22-4f8a-b830-381338c3f6cb",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "d9c23d1a-4ee9-41d4-8a9d-91a3c2febbbc",
+        "description": "Кредитная карта"
+      }
+    ]
+  },
+  {
+    "id": "d6d9cff7-dbcd-4a59-991b-11888b550cf2",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "f67750f5-478a-4595-88ca-ab6f82d450b5",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "7a68ed3b-81ef-442f-a56d-9581acf10cfb",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "f8355144-2970-4ff1-96f4-d7a4a9ffd1be",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-24"
+      }
+    ],
+    "products": [
+      {
+        "productId": "f355deb7-37f2-434d-b6ae-f5e88038dd1b",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "eda42317-3c7c-40d7-91ad-8e314baa2d37",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "325460b7-d066-4fef-b8be-95dd7d8302e7",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "c76f022c-9c46-4aa6-b601-87b918061cd2",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "e0fff9cb-b319-4fb4-9f36-62e5cd2826b6",
+        "employeeId": "first",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-03"
+      }
+    ],
+    "products": [
+      {
+        "productId": "a25903f9-475e-494d-937b-d171bd1766b8",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "4b9b235b-3f4f-47bf-bea8-f6f4b320f140",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "daa11981-7012-4e72-9e2c-58a18efaf57e",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "54abb268-c439-4a94-b751-abc388da9640",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "8b43236b-efee-45a3-bcf8-21658734cdef",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "fca8afa6-4517-4546-aba7-db02b418b662",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-06"
+      },
+      {
+        "actionId": "813f6b0e-c780-4d52-9f9a-220b48a259b8",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-03"
+      }
+    ],
+    "products": [
+      {
+        "productId": "06c53712-8607-47d1-a682-a78fb3926c6f",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "85a0ea3f-4ca9-49b7-a1a7-026c1744ecc3",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "8c510d0f-e96b-4179-8777-f9371e384fbd",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "949dd2b4-7fc6-4964-a854-61fa861a58af",
+        "description": "Кредитная карта"
+      }
+    ]
+  },
+  {
+    "id": "8a35ae61-8d7c-4d1e-bd41-22d8a4799be9",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "cd2b0ff9-0ff4-452f-bb5a-1983adb4b148",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-07"
+      },
+      {
+        "actionId": "73924048-82c4-47de-a569-20674916ed4b",
+        "employeeId": "second",
+        "actionType": "READ",
+        "executionTime": "2021-03-02"
+      },
+      {
+        "actionId": "46cd6186-0dec-4e76-92fe-680d5e4da9ad",
+        "employeeId": "second",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-04"
+      }
+    ],
+    "products": [
+      {
+        "productId": "87ed087b-6cae-4b2c-aa9b-42e95428ac6d",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "f4412387-3a86-4681-be72-015dd38362b0",
+        "description": "Депозит"
+      },
+      {
+        "productId": "80a5ec7f-4aba-417c-b833-ee8587b4dd20",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "ece6dffc-f439-479c-9fbe-4ef843016f32",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "fb5ee9d2-1790-4fd5-86c9-0a8ef760b695",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-02"
+      },
+      {
+        "actionId": "e73988c2-84d9-4abf-911d-58fcc682f5d2",
+        "employeeId": "fourth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "99031fb2-9e7f-4db6-873a-d17acdfbaaec",
+        "employeeId": "third",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-25"
+      },
+      {
+        "actionId": "c4f8ae56-28cb-4cb1-aa40-39b5811a0112",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-03-02"
+      }
+    ],
+    "products": [
+      {
+        "productId": "141dc8e6-d8ed-4baf-af99-cb256cce7998",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "f3ff868e-8b66-421c-a4af-17891c704aa3",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "17cf5f26-de9d-448b-b21b-083e22628c76",
+        "description": "Кредитная карта"
+      }
+    ]
+  },
+  {
+    "id": "0b97cb9e-c70d-4139-8017-7b44a5723f2c",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "1d9114cd-ab81-4636-b960-bd944a3c6e1b",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "6653b5ba-8f2b-43ed-b5b0-f6fc5193a876",
+        "employeeId": "second",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-04"
+      },
+      {
+        "actionId": "a496b5b4-2ec5-4579-a7af-b613e24d5591",
+        "employeeId": "fourth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-28"
+      }
+    ],
+    "products": [
+      {
+        "productId": "15066906-7ff9-4aef-b7cb-663b6165a1f6",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "23f4e8b5-b775-427d-8f09-a59721f9ca52",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "f5170720-5124-4691-9962-909e547b6895",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "8e0d4518-7a5e-480d-b955-3ba708f973c1",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "90fed4b0-421e-4e2a-b6aa-f00d2139c2e3",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "384fe728-3c43-4f63-b18e-0edfad967780",
+        "employeeId": "third",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "1a6f28f5-c5b4-45ef-ac9d-6f693925584d",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-04"
+      }
+    ],
+    "products": [
+      {
+        "productId": "d1d1b1e3-4c38-4c44-84b3-a50b808c8f97",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "fc826792-329f-4afc-8fb2-461fc7711fa3",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "e1d4366e-0a5b-4b1e-99a8-a2c401da87fa",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-02"
+      }
+    ],
+    "products": [
+      {
+        "productId": "7011c0ba-f608-4236-bc48-d296e3bfd39d",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "cec465bd-68f5-4d94-9b70-a595a8eabeae",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "d2e9bb25-40d8-404c-b9ce-939c1cb3e088",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "fb1df848-1961-4232-8b23-a9833b029034",
+        "employeeId": "fourth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "6d8cdbe5-03d6-4786-b628-640d4e786a18",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "aa14c70a-c3c9-4687-9452-b6cb8d08ba80",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-08"
+      }
+    ],
+    "products": [
+      {
+        "productId": "d158d313-2a67-4ac5-9907-55b9e83e9547",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "a9e4ae78-a814-480e-a707-046154dbd52b",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "55ef7694-d24f-4d99-9eca-476488aadd9b",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "3b1109d1-2f88-44f7-999a-00765c498a96",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "71c308a0-5223-43a8-b499-6b039bb84795",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "dc6136c6-c5f9-46ed-b1da-1dcdc4dfc0e2",
+        "employeeId": "fourth",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-02"
+      }
+    ],
+    "products": [
+      {
+        "productId": "51a81cfd-8e11-43f8-a67a-ce40f13d6120",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "bc8b11fe-5779-4b75-b96c-dd4c0c791730",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "402a77ab-ad3d-4691-9210-dd043a823a7c",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "d2ec4f22-72c7-427e-82a9-0ed557e7dfc7",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-06"
+      },
+      {
+        "actionId": "09fa5aa8-359c-4a95-8161-7a22dfac72d0",
+        "employeeId": "fifth",
+        "actionType": "DELETE",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "72c25b02-8c3c-4fce-86a2-177f757de19b",
+        "employeeId": "fourth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-08"
+      }
+    ],
+    "products": [
+      {
+        "productId": "f27ef6e2-7c16-4f20-bcda-a61cc5252af5",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "d63fd7ac-7296-4020-88c0-87a52d39b2a3",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "78207e33-6581-4c40-bf70-63eb80ca94c0",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "67e0303e-f888-46ac-b7d1-ba96ce9b671c",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "290ba917-0740-4bd7-8fa2-3000a999633f",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "4cd268e8-259b-46e6-9730-67b8f25a2890",
+        "employeeId": "fifth",
+        "actionType": "READ",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "a0f65a91-7bc4-419e-9233-7094eedce6ea",
+        "employeeId": "third",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-06"
+      },
+      {
+        "actionId": "bf0b006b-c474-427b-aa56-2b2d153d539d",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      }
+    ],
+    "products": [
+      {
+        "productId": "6097cffb-aa5b-48c0-872e-8810e3fcabfb",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "b1ea45bd-db4a-47e4-9467-09bd02af7e1f",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "e698c57d-b8ee-42c3-85dc-d503479b5cbc",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      }
+    ],
+    "products": [
+      {
+        "productId": "e5310354-c3f8-4a2e-b247-7cb9f08b6538",
+        "description": "Депозит"
+      },
+      {
+        "productId": "e994a533-c576-4549-b856-8a59fb45ffce",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "8a119139-053f-43ef-a45b-d40fff48ba5a",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "78822a07-41b9-4154-90a2-d3d9cc052fe0",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-23"
+      }
+    ],
+    "products": [
+      {
+        "productId": "206f5606-1ae7-45a0-931f-203cd12ef681",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "66e625a2-6db9-4aaa-8861-7ad4dd58212a",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "4581fe90-98bc-4c86-9dc8-f06b639fe94b",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "80891a51-5db3-4287-a30e-425b2757af96",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "989a7020-aed1-4717-96e7-d293d33a8771",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "317830c8-b0eb-41ac-a632-46e55204a5ea",
+        "employeeId": "fifth",
+        "actionType": "READ",
+        "executionTime": "2021-03-07"
+      },
+      {
+        "actionId": "24ae0fba-bdc4-4793-b22e-5454899472c6",
+        "employeeId": "first",
+        "actionType": "READ",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "fd3c5dff-e01b-4774-91fa-8da7d6c24ba2",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-25"
+      }
+    ],
+    "products": [
+      {
+        "productId": "172c15b5-83de-4ce0-a18f-d8af429f8af7",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "f8de7977-04cf-41e1-a5d1-e7d65f3d4d65",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "5f5d602b-9232-4f4b-a723-57b3c0dc4e8a",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "f0a294ce-b6e6-487a-a76c-17faac4cda89",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "ccef0f96-ebcf-426c-b86c-dbbd60cf8cd9",
+        "employeeId": "fifth",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-03"
+      }
+    ],
+    "products": [
+      {
+        "productId": "217a6e3a-9dc8-4eb2-bfb8-4c5361c04cac",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "3e469c65-10fb-43ed-b7ea-ce7380ab632d",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "e38b06d5-dfe8-4304-8e02-b917c36f750a",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "b4f17a4b-8cd0-4968-a1ee-80e7689955a9",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "ebdb275b-2640-4abb-aadf-ddd5a0ac1525",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "559ae9c9-1e41-44be-b85b-2216084419da",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-27"
+      },
+      {
+        "actionId": "a0225f49-8ad8-452f-b3a0-e3cee9ee0e1b",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-03-04"
+      }
+    ],
+    "products": [
+      {
+        "productId": "1e77bf20-1485-4133-9c1f-5d25c96143df",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "43630e76-f62c-4a9b-b435-2a4d9bd193c6",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "e9a70007-fb07-4203-af69-3732b27bdfac",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "19fe1c47-6aff-493d-9160-adde9b60abf2",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "e153359a-dc24-4621-a9bb-bcc40cfd4b9d",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "9cf5c918-2f25-4a55-b1df-d5b7e4e40544",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-09"
+      }
+    ],
+    "products": [
+      {
+        "productId": "0403de3f-5066-4348-84dd-e587a4aac07a",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "22461c25-1cb2-4e87-a9d7-81b1bd3df157",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "5b47829e-4297-469a-8265-557be1149f4f",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "9a124395-d8c6-4ffb-a8fe-10fcaf37206f",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-25"
+      },
+      {
+        "actionId": "4e32df55-567c-490d-be5e-e553b7eaca6e",
+        "employeeId": "fifth",
+        "actionType": "READ",
+        "executionTime": "2021-02-26"
+      },
+      {
+        "actionId": "a9b8affc-8ed2-4150-ab0d-08e1bf7bd20e",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-02"
+      }
+    ],
+    "products": [
+      {
+        "productId": "81aeffb0-288d-4de6-b32d-1bfd9f980670",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "eee428d0-509b-4b31-b776-207b3f7dbc60",
+        "description": "Кредитная карта"
+      }
+    ]
+  },
+  {
+    "id": "c0224c2e-bbb4-4ce3-8c1c-e27b1dd8ec1c",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "3c56a586-cda3-434b-8424-3a77fa29a691",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "8f8e7983-57c1-4289-bd40-8f2a8e209be6",
+        "employeeId": "second",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-02"
+      }
+    ],
+    "products": [
+      {
+        "productId": "ea65e5d7-03d1-4d79-a703-6f8cac09190d",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "045455b1-81cb-4948-89ea-048437685f1c",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "8839c5ba-4b3f-40a4-85f4-1a6f4418c904",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "9c252b47-ddc2-48de-a685-de5a9bf30974",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "7d6d5b61-5572-48d9-9a3d-7f42cce82aea",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-04"
+      }
+    ],
+    "products": [
+      {
+        "productId": "dbb9a525-d2a7-4e2f-8f5c-37ea86585a2c",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "ef048dee-d849-4b02-a224-541db795d908",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "06b7c385-1626-4d8a-b959-0c059cd164e4",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "b8d26b03-0168-4290-ac4f-2cb403b49f02",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "c2f7f736-ef13-4cf2-a832-2b33d3da3abd",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "0244edbd-b490-4d52-82a3-3f518097b042",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "d325bf8e-3095-43d0-aa18-6477f59f17e9",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "eb6d7783-6d2f-4b3f-968a-824efbe4e714",
+        "employeeId": "first",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-25"
+      },
+      {
+        "actionId": "f3fe4472-d7de-4c76-8218-d3c04efda0b8",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-01"
+      }
+    ],
+    "products": [
+      {
+        "productId": "a1fb6b9c-cdee-44d6-b38b-886ac5d67a39",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "503a9f26-a0b7-4e32-b396-8446c3a6cb7b",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "5af26798-f6be-4e2f-9642-f93a211e6ab8",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "dfd49212-458b-4d95-9a44-8f18777e8006",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-04"
+      },
+      {
+        "actionId": "de93e8e9-dccd-499e-a804-c7a78ef67329",
+        "employeeId": "second",
+        "actionType": "READ",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "dfc05e06-e278-4c0a-9639-fe9decc8f6ef",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-02"
+      },
+      {
+        "actionId": "e20f4500-8a2a-4d25-be01-38053433f2f9",
+        "employeeId": "fifth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-07"
+      }
+    ],
+    "products": [
+      {
+        "productId": "1e5bad3f-b613-44e0-a125-39a96599501d",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "927e5d4a-f9f1-44a4-a572-58792096ff0a",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "2898456c-8146-4767-9674-9f75d3845b7b",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "015c5fcb-f129-4e01-8eb7-5ec2515f423d",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      }
+    ],
+    "products": [
+      {
+        "productId": "e54bae08-fc9c-474b-9794-2b9eb1ce05a2",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "fe665da6-52d0-48f3-b6e9-5f1f243839b3",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "8f8ef3fb-d22e-4358-a6f1-72c9a21fc2db",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "8bf72ab5-1229-4406-a7f8-8b7ca3ed8d45",
+        "employeeId": "fifth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "e65feb6f-6f83-4eb9-9b84-0ec3f23e82e9",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "848d8a83-d41e-4e63-9fa4-f2e3d967277b",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "152a2397-1155-4816-a6f8-9f58db02b4e7",
+        "description": "Банковская карта"
+      }
+    ]
+  },
+  {
+    "id": "4de4d24a-ec10-4ca1-b98d-03be51c6e16d",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "b7bac0a1-5660-4f3c-b622-d8583fdbefff",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-02"
+      },
+      {
+        "actionId": "c9547ec6-7aa6-4829-a872-ffe33427c1bb",
+        "employeeId": "fourth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "a30753e1-fca2-4630-81d7-0c86f849f927",
+        "employeeId": "first",
+        "actionType": "READ",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "a12e27c3-2ad7-4de5-a55d-99d1d3ebe2eb",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-08"
+      }
+    ],
+    "products": [
+      {
+        "productId": "788c2cd3-32c9-455e-9db5-92a907e26e13",
+        "description": "Депозит"
+      },
+      {
+        "productId": "2f69c83e-6aa4-4b63-acf6-847beb097aaf",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "40da2831-270d-42c7-a8af-3b20bbc76026",
+        "description": "Банковская карта"
+      }
+    ]
+  },
+  {
+    "id": "e45b0dc6-f143-47c5-8766-6cea47fb6add",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "0a6ce2e5-b113-4b5f-a642-527654419b48",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "4d37f809-2841-4bbe-bd80-0eebad5ce929",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "0b7e16c6-86c6-4947-b2f8-356e3cdc759e",
+        "employeeId": "fourth",
+        "actionType": "DELETE",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "5a0fa330-10a8-4065-81ae-153fd3a80cbe",
+        "employeeId": "fourth",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-01"
+      }
+    ],
+    "products": [
+      {
+        "productId": "b1186567-0157-471e-866e-08f0fc4a4cff",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "12f896fe-283d-437b-a886-b6d4b25c6982",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "af95a735-62f2-4405-9a42-cc1fd06efebf",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "58c27860-89da-4c74-89b0-4f0893c3a983",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "bc23f8e9-a134-4ac1-824a-10c1dbc5bec2",
+        "employeeId": "first",
+        "actionType": "READ",
+        "executionTime": "2021-03-03"
+      }
+    ],
+    "products": [
+      {
+        "productId": "d9945301-61ee-426b-bbc0-16afb94a6471",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "08eb00f6-2a18-4918-9f34-4335f5c37f1b",
+        "description": "Банковская карта"
+      }
+    ]
+  },
+  {
+    "id": "19e6993b-b22c-4839-8183-ff5ed2becffd",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "b2f74cd5-6b73-41db-8720-a0b13ac09a54",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "ac57536e-077f-45c7-9fd8-e967afdb6007",
+        "employeeId": "fourth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-25"
+      }
+    ],
+    "products": [
+      {
+        "productId": "ce1c1b00-a959-4b73-babb-5e7c41d75ba0",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "453e7c57-5ad0-4fa1-8605-954b57cdc3b7",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "b2306e64-153f-4370-a193-f25d1f09486b",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "ecd15dbb-a635-4b2a-8ef9-2181eddcd89d",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "7dd9aaa5-afde-4b38-bd2c-5703a6dc2fce",
+        "employeeId": "first",
+        "actionType": "READ",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "bee33cb4-54b2-462a-ba43-a3894dfe056d",
+        "employeeId": "first",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-25"
+      },
+      {
+        "actionId": "ce1974bf-575b-4378-b03d-303c248046e0",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-23"
+      }
+    ],
+    "products": [
+      {
+        "productId": "dbef70cb-082a-47c4-9537-10cdab6727b1",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "26c81333-fce9-4280-a917-9694339fc6a0",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "926f3aec-28e3-4a4d-a181-5ee24a20d56f",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "831a6094-9f78-487c-b7c6-ce52c8fa8656",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "efb9e791-6228-4c8a-a155-2a48fc0141f6",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "cd7ad9af-8391-42e5-92f8-5bbc3db9d42b",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-04"
+      },
+      {
+        "actionId": "3fa73a11-26b4-4362-b8e9-093766622f90",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-23"
+      }
+    ],
+    "products": [
+      {
+        "productId": "1e515b04-83b4-49c4-967b-c5507f73d7b5",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "34a8e981-e9dd-4d7c-950d-7a2a6065223a",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "0079fc37-e563-4e30-a746-98e9462a38d3",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "4673c4b2-0b40-4ff6-8dda-5a006b123db2",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "276e32a7-7aa6-49ee-9836-617c769a2423",
+        "employeeId": "fifth",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "f70d915a-1234-4410-a79c-60c055aba7dd",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "ca89c120-d20b-41a3-b39c-a392da46c7e5",
+        "employeeId": "fifth",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-04"
+      }
+    ],
+    "products": [
+      {
+        "productId": "0cc54f1c-b987-4fbf-b2f7-aeba0869a374",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "4339bc87-9f1e-4b3c-b5d1-4ab2ab8455b8",
+        "description": "Депозит"
+      },
+      {
+        "productId": "9d11cf6c-5f8d-4828-9c47-e0c01fac7105",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "e2f6974f-9065-44ea-96d7-ac3bff41b7e8",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "d963954e-9adf-4988-a461-e0543e8ecc85",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "805ea7f1-7f70-4db3-be72-e03811931fe0",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-03"
+      },
+      {
+        "actionId": "ada46830-047d-47fc-8653-92080ac16a55",
+        "employeeId": "second",
+        "actionType": "READ",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "c071c37f-ff31-4e07-871d-60dabcc05742",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      }
+    ],
+    "products": [
+      {
+        "productId": "f7dfd765-ddd1-444e-bd66-8dff55e2767a",
+        "description": "Кредитная карта"
+      }
+    ]
+  },
+  {
+    "id": "eef392ba-8182-4411-b588-850190159890",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "0cb46162-c0d9-4dd4-805d-1e6ee96ca768",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-06"
+      },
+      {
+        "actionId": "c5b5943f-4d7d-4b2f-ad02-ca9e5aafe2b2",
+        "employeeId": "third",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-06"
+      }
+    ],
+    "products": [
+      {
+        "productId": "0621824d-d65b-4f37-9f9a-305d81b1531c",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "09fa7e6d-aefa-4e0f-a5fb-ef605f6dc108",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "7bb63415-4567-4ec6-82b9-d9736c614d05",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "08cae6a8-29c7-4830-ba5d-f4d02812265a",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "ce0e631c-824e-423b-a7cc-5883bf884b3b",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "31d4aae0-cf15-4b13-bab3-108fb15ec3a7",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "dff9c8a1-55bc-4514-b704-ed59ecc0fb78",
+        "employeeId": "fourth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "c8943e9c-c38f-46e4-93af-96a4eadd6084",
+        "employeeId": "third",
+        "actionType": "READ",
+        "executionTime": "2021-03-04"
+      },
+      {
+        "actionId": "1750a658-8d1d-418e-bffe-16fcf7406431",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-09"
+      }
+    ],
+    "products": [
+      {
+        "productId": "3365b729-5f1f-4bc3-8474-45c2d976281d",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "58309da0-642b-4600-808b-77730e523c15",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "c0cb5dc0-a331-46ca-bcd4-2358d28be119",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-07"
+      },
+      {
+        "actionId": "c35635ef-da0e-45d7-bc77-4339affe8801",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-28"
+      }
+    ],
+    "products": [
+      {
+        "productId": "4758c770-878d-45b4-94b2-127255689668",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "72ecb1e5-0982-4595-af9e-33ca93a65172",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "b33bfda7-6ea2-4082-b503-55c2bea25fc3",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "f01bb9ef-53ce-4e34-a6b7-8a1c4b8d3e0d",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "444b2366-f2cb-4cc1-959d-5c934e5666fe",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "923c5607-4767-4001-b5b5-c2645fcc7dab",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-07"
+      },
+      {
+        "actionId": "5aae097a-d2df-4ce9-8409-ac825b296296",
+        "employeeId": "first",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-03"
+      },
+      {
+        "actionId": "91ba6a02-915a-4f6b-b2db-7ad311889f21",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-06"
+      }
+    ],
+    "products": [
+      {
+        "productId": "fc795c44-d37e-45c8-bd4d-ab634c30eeb7",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "67de4fed-65f9-4ecd-a007-40bb2565fc91",
+        "description": "Банковская карта"
+      }
+    ]
+  },
+  {
+    "id": "f258f28f-f63b-4ea3-a1d2-6ed94afe37b9",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "f87502af-1a81-4b58-949f-c14f7b60f6df",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-06"
+      },
+      {
+        "actionId": "336972af-3471-4531-818a-f756a724e5ab",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "2d932db4-e022-4335-a63e-4ba1daa43283",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "a34a7292-5955-4c60-a02a-6a338d2f0fb6",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "61b4565d-bcf4-400c-a476-7612f8de62ea",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "c5b45f1e-841f-4b07-8d90-64e3d90e5f1a",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-25"
+      },
+      {
+        "actionId": "4dd12ad0-0406-42eb-8f2c-e61499ee0188",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-04"
+      },
+      {
+        "actionId": "767e14b9-6cfa-49bd-a8fd-b192c4d7c3f1",
+        "employeeId": "third",
+        "actionType": "READ",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "1efb3217-3748-441d-a917-7482ce4a9d88",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "2c3c6c57-d731-4ca5-b5b9-71349536341e",
+        "description": "Депозит"
+      },
+      {
+        "productId": "3c865aec-1f58-4214-bf11-892a9e4822f5",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "73b485de-ca9c-4eaa-8746-c9404c89bade",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "b798a1b8-126f-44e2-bb03-23edef19a1fd",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "c3892c30-5711-4ce8-a276-f3094996b374",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "b3eaf42d-bba1-422c-b645-ae97df693f5e",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-25"
+      }
+    ],
+    "products": [
+      {
+        "productId": "e5269e46-98f9-4bb6-986a-e10ea8d57b46",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "d8a34505-8f16-4328-8e63-9b501fd89004",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "a2652454-4ff8-43bd-b712-dd99f6124623",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "e3ae8b4d-bbe8-4d0c-b3ed-e794b1ae3304",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "8095681d-8a6c-496f-80dc-b1d7829d4e67",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "c1f76f37-54fd-4ef1-bd34-e0dc99f2247c",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-02"
+      },
+      {
+        "actionId": "111a33d8-6ce3-4e75-8f4d-c61afce901c9",
+        "employeeId": "fourth",
+        "actionType": "DELETE",
+        "executionTime": "2021-02-26"
+      }
+    ],
+    "products": [
+      {
+        "productId": "34c24da0-9f78-43c6-849d-de1f17cc56ea",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "ad873670-894e-4473-be4a-c5be6fc0f44c",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "b4db96fa-c716-4ec8-9204-ff86c3f75af4",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "a33c175b-9a47-409c-bbc1-8c0011dce00c",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "0331d759-f9e6-4820-b429-919d4bd6e2f3",
+        "employeeId": "third",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "2da3d99a-b5af-4bd0-be62-6fbcd5a12a58",
+        "employeeId": "third",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-08"
+      }
+    ],
+    "products": [
+      {
+        "productId": "758461e6-f31f-442c-a4c9-d243c093f21d",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "b4f87be0-455b-41fe-9759-f60be5b553fa",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "7dbe6e25-f1d3-492b-8184-fdc38932d9a8",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-07"
+      },
+      {
+        "actionId": "f32a4b00-9d68-4db5-af8e-0fb0ee9f0e63",
+        "employeeId": "third",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-06"
+      }
+    ],
+    "products": [
+      {
+        "productId": "e3a49efd-d140-4c43-9f42-63a5158269d8",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "1d096d84-131b-4670-b5f0-35ea124aae01",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "11ea33ce-1d8f-49fb-8151-3d71af6aee4e",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "062bf0da-dc2a-460b-a585-638c1f0973ca",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "6da04842-3104-4c33-991f-079467cfe457",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-27"
+      }
+    ],
+    "products": [
+      {
+        "productId": "9f45f6ac-c97b-4961-a799-f61b991b5be2",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "0700b4f2-a574-4a0a-842e-70867b3f8ecf",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "d7536246-b0b2-488a-85cc-b2c1542fa6e9",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "c5085db0-4423-415f-bd56-7c84df5cc50b",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "8d0434fa-58c6-4a23-9c48-dc047e2f4a3c",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "f89cbbb3-8287-422b-9e71-340080507caf",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-04"
+      },
+      {
+        "actionId": "996d79c9-6071-41eb-829b-546be7a72d61",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-26"
+      }
+    ],
+    "products": [
+      {
+        "productId": "a202d3ea-decb-4a04-9604-a65dad837bc0",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "74e9d2ea-c82f-4468-bf44-d5fdda460965",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "7ce70ccb-bc96-42c7-af1e-d05f497386f7",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "5c737c7e-be76-4a35-829e-f0c844aabd49",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "98a4ac25-d6e3-4a4e-990f-99eb10bfcd6a",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "e0f85d9d-87b7-4d1a-af95-a0df8146a0bf",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-26"
+      },
+      {
+        "actionId": "e51db5d5-ff7e-47d2-a666-611d3e5948fa",
+        "employeeId": "first",
+        "actionType": "READ",
+        "executionTime": "2021-03-03"
+      }
+    ],
+    "products": [
+      {
+        "productId": "155fe600-264d-407c-894c-673fcb098016",
+        "description": "Кредитная карта"
+      }
+    ]
+  },
+  {
+    "id": "67ec2fd5-7d00-44dd-ae57-5b08e9ce69be",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "ca6cfce5-99d4-493a-877d-11f56177f639",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "49743e27-4c53-4536-94ab-80ac828f8979",
+        "employeeId": "second",
+        "actionType": "READ",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "feecfe0e-65f5-4eb9-ba95-67a55cb0e762",
+        "employeeId": "second",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-09"
+      }
+    ],
+    "products": [
+      {
+        "productId": "408c67ee-12d4-4384-851d-40264ac7908e",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "768e7482-b487-4ace-bdf5-17115ad99d99",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "70c8f245-9454-46e9-95d7-d210be4204cb",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-26"
+      }
+    ],
+    "products": [
+      {
+        "productId": "8cb23b82-546d-444c-aa6e-d3180de7b196",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "ec5d45e9-942d-47be-a0bf-59bd6138c51b",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "ef67cce4-fc98-4cc0-8ed4-3a2fb82d21ff",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "e9b85168-cc6d-4709-84ab-6089ab47f60f",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "5645090a-a1f5-470e-b1e8-1e6223075544",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "eee86908-9c0e-4b21-8281-ecc218a72ea2",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "5dbef169-e5f7-46a7-be1f-cdd9d4f79d6e",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "a8eb42a1-a226-4dc6-b55e-b22030baa0a2",
+        "employeeId": "third",
+        "actionType": "READ",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "0b22ad59-3ff7-4007-8161-8ca095362b7b",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-27"
+      }
+    ],
+    "products": [
+      {
+        "productId": "ab68720b-c98b-451e-986b-f075e1f2aecc",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "2c48f2d9-487d-4573-8dd1-b368047a5fe0",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "7b5d80f1-a0d3-4eb7-86fa-7cd4c358d410",
+        "description": "Банковская карта"
+      }
+    ]
+  },
+  {
+    "id": "865106c3-2640-43f4-bd6c-1c3a74a3f625",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "f98e64b7-3f47-4166-bcbc-39b44cb1e2e3",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "54c2795c-8a7e-4d20-ae25-644ddc2d03a8",
+        "employeeId": "fourth",
+        "actionType": "DELETE",
+        "executionTime": "2021-02-28"
+      },
+      {
+        "actionId": "397c08f9-165c-4e99-a5d1-902e00b21061",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "8e698033-ef8f-4cf6-bc84-654291ca9b6d",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "bdfdf48c-e487-4bc2-b2cd-96148ff732f7",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "f6295e8f-cc01-4e47-9838-78827bcc5c21",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "06604056-ac9f-4922-bed8-39b12e595712",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "9e88133e-4c04-450f-b1d7-17044b95a9d0",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "bc0ba324-fa40-4942-976b-9c905deb55a3",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "212611f5-136a-47a7-aebf-dd4b8fabb459",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "8f093536-f0ba-4761-9afc-a3402ac1c012",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "bf75a6c4-f9f7-4807-873c-428b815b37a5",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-23"
+      }
+    ],
+    "products": [
+      {
+        "productId": "8bb689b2-4a01-467e-9738-d9fddf2b4b09",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "604359d9-803f-451e-9e65-2d16906495d2",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "01f0b986-a230-4090-8613-e083f45070da",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "4b2fd82c-c330-4a1a-9243-3cd1c7b31a20",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "16120260-bc08-401a-8bb8-e5d77bd80c4f",
+        "employeeId": "fifth",
+        "actionType": "READ",
+        "executionTime": "2021-02-26"
+      }
+    ],
+    "products": [
+      {
+        "productId": "f9672bb6-0938-4fb7-8db5-9059c88017a6",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "8ec3b389-b654-434f-9f0d-3e76fc91375a",
+        "description": "Депозит"
+      },
+      {
+        "productId": "bdb44b69-d844-43d4-973f-4fa7fd71fb13",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "1f5c7232-8075-44ae-a1a7-f43d1a1d60b8",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "ff1e12a3-7e95-4bd8-8f7e-aa6bc2e8b09b",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-02"
+      },
+      {
+        "actionId": "1a417a0a-4bba-425e-9faf-129f26017537",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-06"
+      }
+    ],
+    "products": [
+      {
+        "productId": "5f4a0d6c-5015-4f12-b086-a363a22ccdd0",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "4e4dc09e-0c00-4ac3-b867-3a3b0aad6e62",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "81b2639d-8e23-4a9f-a740-a625eb4be75a",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "00d0193c-9bce-4bb7-ad78-db5142c63e05",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "0da6f9fb-2655-489e-bcea-476f96bf366f",
+        "employeeId": "second",
+        "actionType": "READ",
+        "executionTime": "2021-03-04"
+      }
+    ],
+    "products": [
+      {
+        "productId": "84e94352-1c4c-44db-8a90-9aec95057be9",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "2ed0229b-98be-46bf-8796-1cccefbe6b05",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "e5a5dc13-49bf-4163-b053-7d881ea788cb",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "1793f830-413b-470c-859f-cdfdf31b4eb2",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "89c6cc04-72c2-4cf2-80a1-ce04adabb40d",
+        "employeeId": "second",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "54ea7bb9-a7ad-4142-a476-2398b686a2cf",
+        "employeeId": "third",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-02"
+      },
+      {
+        "actionId": "53993d97-f048-403d-b027-c159596bc563",
+        "employeeId": "third",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-07"
+      }
+    ],
+    "products": [
+      {
+        "productId": "23861895-a819-4273-a0d9-1966a569e0ef",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "d451982a-f29a-49cc-9292-83955b4d5304",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "1b0c919f-2f6e-4dde-ad75-f4a922fa2933",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "ea355e2b-a669-4715-af11-0acaff2e2c7a",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "7426d7f4-db38-409b-a25d-c1155a3f6b5c",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "5b0bccd3-d34d-4ee2-9988-d8f2dc02b1c7",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "c2367c52-06a0-4adc-b81b-484b8c102e90",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "c7f77248-b316-4b54-bd9c-96fea521974c",
+        "employeeId": "fourth",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-03"
+      },
+      {
+        "actionId": "0c9e8d7b-8f86-4c8e-9345-f088e0a5d708",
+        "employeeId": "third",
+        "actionType": "READ",
+        "executionTime": "2021-03-06"
+      }
+    ],
+    "products": [
+      {
+        "productId": "748e94c2-08b1-43a5-8db7-c83db0551f3b",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "2c83fb45-a4e2-4be1-bcb0-3a6977ebe4b9",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "51b47aa1-ef15-4f09-9498-a54751636b36",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "d90dd4fb-d032-4da3-b827-def282dbe4ec",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "c7992bcb-6d47-4d01-b8b0-e18180f7c78c",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "bf7622a2-69a0-41ea-a92a-c826861c49c6",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-04"
+      },
+      {
+        "actionId": "2c55985d-eb68-40a0-8d4a-d8f82ad4c1df",
+        "employeeId": "third",
+        "actionType": "READ",
+        "executionTime": "2021-03-09"
+      }
+    ],
+    "products": [
+      {
+        "productId": "be2ae9cf-4cb9-4a93-b78b-0ab8271a06b6",
+        "description": "Депозит"
+      },
+      {
+        "productId": "9c54a676-46f2-4174-8327-6a84ee37397c",
+        "description": "Кредитная карта"
+      }
+    ]
+  },
+  {
+    "id": "5b582536-086a-4eb5-aa52-f25eb1aa5863",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "832a62eb-ce90-449a-95b2-ade7022606ff",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-25"
+      },
+      {
+        "actionId": "39cb86fb-e8b7-4338-9ebe-f74960a94af6",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-23"
+      },
+      {
+        "actionId": "8a4a94a3-e0d4-4354-8821-e84fae261ead",
+        "employeeId": "fifth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "a5ebabbf-fd8d-4b78-8e66-bb7573f0f09f",
+        "employeeId": "third",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-23"
+      }
+    ],
+    "products": [
+      {
+        "productId": "c6f6be6d-4501-4e5b-9064-3c47e8fe5cf2",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "3dc0cbca-71d9-42ae-96bb-e28ffb409a20",
+        "description": "Кредитная заявка"
+      },
+      {
+        "productId": "1e9d7b44-368b-43eb-9b48-54b6cbf4ccc9",
+        "description": "Счет-копилка"
+      }
+    ]
+  },
+  {
+    "id": "9c3a23e6-4ab4-4f9b-8948-3dc288d49c89",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "0d276507-b2a6-4c26-99c6-49abae7167cb",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-03"
+      },
+      {
+        "actionId": "7bb263ab-b3ab-4f8b-97ab-29bb6faf620b",
+        "employeeId": "first",
+        "actionType": "READ",
+        "executionTime": "2021-02-27"
+      },
+      {
+        "actionId": "5e928f65-f5f0-456f-b229-9e1a6bce9411",
+        "employeeId": "third",
+        "actionType": "READ",
+        "executionTime": "2021-03-06"
+      }
+    ],
+    "products": [
+      {
+        "productId": "ad57d5b5-5f61-4dae-8e5b-fd88777fad1c",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "8b65ecb3-3220-4851-ae15-81b0c381105f",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "b33da51d-190a-413b-8f64-19c3c5cbd78b",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "420dc8eb-7586-430f-bc0f-a2b77a691d65",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "b490a318-1c94-4dcf-bf74-2fdceb00fd7a",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-04"
+      }
+    ],
+    "products": [
+      {
+        "productId": "7c5a04d2-aaf3-4f37-8e96-2789c68a9625",
+        "description": "Бонусы"
+      }
+    ]
+  },
+  {
+    "id": "640b829b-55cb-4fd9-af07-1da7f26f7863",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "f58f654d-a475-4fae-bd60-419de758b28c",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-27"
+      }
+    ],
+    "products": [
+      {
+        "productId": "9ddc8c12-cade-44e2-be1a-c0356745fc91",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "a020db50-8927-46e7-8401-c196e23eab0b",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "17fdce39-6d8a-4e2b-96e9-4fc4d4b79d47",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "ca3a4565-d417-483d-a71c-6dd6f95db446",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "6e630dfc-8b99-49aa-acd1-2fd30627b252",
+        "employeeId": "second",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "bba02558-604e-4091-b2ba-b2b98e7822aa",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "13dc4b85-3073-46ff-9fc7-e1cf8d85b04c",
+        "employeeId": "fifth",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-06"
+      }
+    ],
+    "products": [
+      {
+        "productId": "ccd4d40f-5d4b-47d5-afad-72cb6ec0f5fd",
+        "description": "Депозит"
+      },
+      {
+        "productId": "afc17755-6094-4ae8-ac07-d0e1ed5ae68b",
+        "description": "Депозит"
+      },
+      {
+        "productId": "7219b462-2c38-4564-81b5-ed4a713e22f3",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "02675969-8d67-4302-8c40-3b20946453e8",
+    "clientId": "444444",
+    "actions": [
+      {
+        "actionId": "d210a746-dd43-49bf-9959-fb2a6f469691",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "50fe2bc4-9062-46a1-b315-551d33d9185b",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "930b24f9-d6f4-4591-8ef8-52c1a816f5ee",
+        "employeeId": "second",
+        "actionType": "DELETE",
+        "executionTime": "2021-02-26"
+      }
+    ],
+    "products": [
+      {
+        "productId": "e2401729-2087-4fbd-ae1c-05555a9b5548",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "ce84a75a-ac54-4577-a490-bf9547b0c9e5",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "7120518e-78ec-4aee-94be-25ba0c2b4c40",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-03"
+      }
+    ],
+    "products": [
+      {
+        "productId": "e286b2bb-85ab-481d-b195-abf33bfb163f",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "b5f39513-9640-425d-8994-6d3cfcfc6271",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "df7b8a9e-429e-4dd7-8203-d9c13a708745",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "04edc42c-446a-4dea-945d-e5791405c4a6",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "added1fa-0e7e-4c65-bcae-e5e86d3208e8",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "1fd38f28-5e26-436b-8762-eaa2f830f39f",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-24"
+      },
+      {
+        "actionId": "1d8633fc-1bb8-411b-8033-f00d777d6954",
+        "employeeId": "third",
+        "actionType": "READ",
+        "executionTime": "2021-03-08"
+      },
+      {
+        "actionId": "2b618c65-73ae-4152-94dd-030c140a499d",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-03"
+      }
+    ],
+    "products": [
+      {
+        "productId": "ea143fd4-e842-4f70-aac4-ffcf66ab8fbf",
+        "description": "Банковская карта"
+      }
+    ]
+  },
+  {
+    "id": "2336ec56-2468-4cff-9f7e-ab363ed9236a",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "efbae3c6-2954-42f2-8a1f-7ae64184f556",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "884b6832-db5c-4ae2-97ef-5358ddcd8572",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-03-03"
+      },
+      {
+        "actionId": "9b95a0bb-5806-4665-a734-a4448c4888ff",
+        "employeeId": "second",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "b0e4b34a-8dd2-4166-b671-9fb4d02cd608",
+        "employeeId": "fifth",
+        "actionType": "READ",
+        "executionTime": "2021-03-04"
+      }
+    ],
+    "products": [
+      {
+        "productId": "b4190001-6f19-40b4-93f0-38d36ad912f5",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "67335803-75a3-4418-8441-c890b755fc28",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "83b2bf6b-b5fc-4665-aafc-8820cffb4c4d",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "07305d84-5863-48a1-bddd-b11b3b6e93c5",
+    "clientId": "222222",
+    "actions": [
+      {
+        "actionId": "ec4af0df-d401-40d7-a17c-96ed2a5ca842",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "d62242aa-5dee-464d-a20a-b74b5f1ab3b1",
+        "employeeId": "fourth",
+        "actionType": "READ",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "aedc09da-29b0-4b0e-a834-c1175d660a3d",
+        "description": "Кредитная заявка"
+      }
+    ]
+  },
+  {
+    "id": "c82e800c-a309-4a61-8163-e5c91cf3009e",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "4aa949d0-46bc-4ffc-8648-96f2d3d3e625",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-06"
+      }
+    ],
+    "products": [
+      {
+        "productId": "4e835fde-9ff7-4946-bf61-1c05cff27760",
+        "description": "Депозит"
+      },
+      {
+        "productId": "26408657-06b1-4ff6-bb7c-ef0a442c8300",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "21b0ff1d-f6ea-4ffd-bc7b-90ff2cef358d",
+        "description": "Депозит"
+      }
+    ]
+  },
+  {
+    "id": "f5f754e0-88c5-457e-935c-bc05ba21f19c",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "263c101c-3f60-454b-801c-c5d3bd74c1cc",
+        "employeeId": "third",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-26"
+      },
+      {
+        "actionId": "dc5f6d80-e6cf-4f2d-853f-dc8f309fe1d1",
+        "employeeId": "fifth",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-25"
+      },
+      {
+        "actionId": "3ed1c328-28d4-42de-a485-aed211b39a5a",
+        "employeeId": "fourth",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-03"
+      }
+    ],
+    "products": [
+      {
+        "productId": "57b89c9d-6972-4acb-a166-3141efddee67",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "1d57df0a-d870-4d11-9d01-9b16d4017e70",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "f93abe29-ec4b-46b4-80f3-abd5f86ed78c",
+        "description": "Счет-копилка"
+      },
+      {
+        "productId": "8f9b8114-db7c-492c-8fbb-c0421102e0c5",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "19265e67-1102-4174-a63f-ddb8159c7ae4",
+    "clientId": "333333",
+    "actions": [
+      {
+        "actionId": "1d537870-443a-403f-a374-2893efa5f40c",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-02-24"
+      }
+    ],
+    "products": [
+      {
+        "productId": "44d248e9-a01d-4fde-8896-ca293bb9c84f",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "d08e2cca-f95b-4bbe-9e6d-b114a42d01d3",
+        "description": "Бонусы"
+      },
+      {
+        "productId": "b7ba687b-2160-4d41-8645-08e60af9126b",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "9e1e1946-05d5-4359-84a9-c666b8a8660e",
+        "description": "Мастер счет"
+      }
+    ]
+  },
+  {
+    "id": "211ab494-8e30-44d6-bf22-3416e97875a4",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "de30a151-2b95-471f-8668-007f49605f54",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-09"
+      },
+      {
+        "actionId": "8222dcde-d317-4a79-8c45-742b4b440bcc",
+        "employeeId": "first",
+        "actionType": "DELETE",
+        "executionTime": "2021-03-04"
+      },
+      {
+        "actionId": "24cdaffb-2b48-4524-81ac-0f471ba1275a",
+        "employeeId": "fourth",
+        "actionType": "UPDATE",
+        "executionTime": "2021-02-25"
+      },
+      {
+        "actionId": "f69c9fa3-8b3f-44a0-839c-dff49921cbbe",
+        "employeeId": "second",
+        "actionType": "UPDATE",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "fb086053-1f7e-4c08-b368-6df2ad59f17b",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "4ade8754-b72b-43e3-8d51-b2caa46f9756",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "464c672c-d8cd-4e88-b8ec-d92d86a0a36e",
+        "description": "Депозит"
+      },
+      {
+        "productId": "843341e4-8990-4f7c-b681-01d379a04df2",
+        "description": "СБП счет"
+      }
+    ]
+  },
+  {
+    "id": "43eae3c5-c94d-4eef-83e0-90d4f763e36b",
+    "clientId": "111111",
+    "actions": [
+      {
+        "actionId": "3ac8aa9f-696b-46ed-ae9e-80fa157a0674",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-05"
+      },
+      {
+        "actionId": "ee9f7f0c-707c-47e2-8130-a6b8f22eeab1",
+        "employeeId": "first",
+        "actionType": "READ",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "0e648901-7aa7-4563-a5d7-46e2117aaafd",
+        "description": "СБП счет"
+      },
+      {
+        "productId": "bb5c1f50-6ccf-4458-8ba2-8cebb7b7b926",
+        "description": "Кредитная карта"
+      },
+      {
+        "productId": "110d094d-8b0d-4954-9b80-5ac179c66f3a",
+        "description": "Мастер счет"
+      },
+      {
+        "productId": "3e88fae0-def4-48d0-966f-0fcc33dd64a2",
+        "description": "Банковская карта"
+      }
+    ]
+  },
+  {
+    "id": "541e73ca-c7e3-4bd1-b3c7-6cf13b147d9e",
+    "clientId": "555555",
+    "actions": [
+      {
+        "actionId": "6119af24-f6ef-4ec3-9773-9fd3a277d70f",
+        "employeeId": "first",
+        "actionType": "CREATE",
+        "executionTime": "2021-03-01"
+      },
+      {
+        "actionId": "41c833d3-ad5f-4d28-b2e3-1d17be1c7a55",
+        "employeeId": "third",
+        "actionType": "READ",
+        "executionTime": "2021-03-05"
+      }
+    ],
+    "products": [
+      {
+        "productId": "54158a03-d51e-44c0-b824-2b6953a70aca",
+        "description": "Банковская карта"
+      },
+      {
+        "productId": "f016aa18-e5a3-4198-acab-fedf137b3843",
+        "description": "Депозит"
+      },
+      {
+        "productId": "8e2534f9-c5a1-47b1-adc4-41e8f7d7c703",
+        "description": "Кредитная карта"
+      }
+    ]
+  }
+]
